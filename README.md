@@ -1,1 +1,5 @@
-# heranca_de_classes_aula
+Classe: Transporte
+
+onibus, trem, metrô, uber, táxi.
+
+capacidade, tempo de chegada.
